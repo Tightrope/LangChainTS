@@ -27,7 +27,7 @@ async function main(){
     const model = new OpenAI({openAIApiKey: process.env.OPENAI_API_KEY, modelName: OPENAI_MODEL});
     const qaChain = RetrievalQAChain.fromLLM(model, pineconeStore.asRetriever());
     const answer = await qaChain.call({
-        query: "E minor chords",
+        query: "Describe a unique chord change",
     });
 
     console.info(`The answer is: ${answer}`);
