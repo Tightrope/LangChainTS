@@ -1,0 +1,31 @@
+Step 1: Make your requirements less dumb.
+
+Make sure you start with high quality requirements and that you truly understand the ‘why’ behind each.  Simply using requirements because someone told you that’s what they want makes your requirements dumb.
+
+“It does not matter who gave them to you. It’s particularly dangerous if a smart person gave you the requirements because you might not question them enough.  Everyone’s wrong.  No matter who you are, everyone’s wrong some of the time.”
+
+Elon recommends that for whatever requirement or constraint you have, it should come with a name, not a department.  That’s because if there’s a question of concern, you can’t ask a department. You have to ask a person.  The person who’s asking for the requirement or highlighting the constraint must agree that they will take responsibility for that requirement.
+
+If you fail to do this, you may run into the situation where some random person who’s no longer with the company came up with the requirement off the top of their head with no foundation in a real need.  That’s a dumb requirement.
+
+Step 2: Delete the part or process
+
+Look critically at the process or piece you’re developing and try to remove pieces instead of always adding new things.  Work to understand the value that’s added by each part or each step in the process and reduce or eliminate those that don’t add value.
+
+“If you’re not occasionally adding things back in, you are not deleting enough. The bias tends to be very strongly towards ‘Let’s add this part or process step in case we need it’. But you can basically make in-case arguments for so many things.”
+
+Step 3: Simplify or optimize the design
+
+Optimizing should only be done after you make your requirements less dumb and try to delete the part of process.  The most common mistake you can make is to optimize something that shouldn’t exist in the first place.
+
+Step 4: Accelerate cycle time
+
+We want to reduce the amount of time from when we start working on something to when we finish.  The easiest way to do that is to focus on one thing at a time and eliminate task switching.  With that focus, you can get things done more quickly . . . just make sure they’re the right things.
+
+“You’re moving too slowly. Go faster, but don’t go faster until you work on the other three things first.”
+
+Step 5: Automate
+
+Once you’re confident you have the right requirements with the right ownership, removed unneeded steps, optimized the design, and done things quickly, you can automate the process.  Don’t spend the time and effort to automate the wrong thing or automate too soon.
+
+Using Elon Musk’s five-step design process may help you and your organization to innovate faster and focus on customer value.
